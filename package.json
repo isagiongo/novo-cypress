@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cypress:open": "node_modules/.bin/cypress open",
-    "cypress:run": "node_modules/.bin/cypress run"
+    "cypress:run": "node_modules/.bin/cypress run --record --key f28ab86c-b1da-4820-a77f-b9de5cdfdd6a"
   },
   "author": "Isa Giongo",
   "license": "ISC",
